@@ -11,7 +11,7 @@
 
 # Autres manipulations
 
-## Regardez le fichier .txt
+## Regardez le fichier explications.txt dans instructions !
 
 
 
